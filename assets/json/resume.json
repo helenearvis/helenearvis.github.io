@@ -14,7 +14,7 @@
     {
       "name": "EDF R&D, Inria GHOST and TROPICAl",
       "position": "PhD Student",
-      "startDate": "June 2024",
+      "startDate": "06-2024",
       "endDate": "Now",
       "summary": "Aggregate modeling of flexibilities in long-term investment and dispatch models for electricity production",
       "url": "https://theses.fr/s408336",
@@ -23,24 +23,24 @@
     {
       "name": "OuiHelp",
       "position": "Master Thesis",
-      "startDate": "October 2023",
-      "endDate": "May 2024",
+      "startDate": "10-2023",
+      "endDate": "05-2024",
       "summary": "Home Care Routing and Scheduling in a Mandatary Setting",
       "highlights": ["Optimization, Routing and Scheduling"]
     },
     {
       "name": "Mercedes-Benz AG",
       "position": "Research Internship",
-      "startDate": "March 2022",
-      "endDate": "August 2022",
+      "startDate": "03-2022",
+      "endDate": "08-2022",
       "summary": "Mixed-Integer Linear Programming for modular body-in-white factory planning",
       "highlights": ["Optimization, Factory planning"]
     },
     {
       "name": "SNCF Réseau - DGEX",
       "position": "Engineering Internship",
-      "startDate": "June 2021",
-      "endDate": "August 2021",
+      "startDate": "06-2021",
+      "endDate": "08-2021",
       "summary": "Linear Programming for train scheduling",
       "highlights": ["Optimization, scheduling"]
     }
@@ -52,8 +52,8 @@
       "url": "https://www.tum.de",
       "area": "Mathematics in Operations Research",
       "studyType": "Master's Degree",
-      "startDate": "October 2022",
-      "endDate": "May 2024"
+      "startDate": "10-2022",
+      "endDate": "05-2024"
     },
     {
       "institution": "Ecole Polytechnique",
@@ -61,8 +61,8 @@
       "url": "https://www.polytechnique.edu/",
       "area": "Applied Mathematics",
       "studyType": "Diplôme d'ingénieur - Master level",
-      "startDate": "September 2019",
-      "endDate": "September 2023"
+      "startDate": "09-2019",
+      "endDate": "09-2023"
     }
   ],
   "languages": [
