@@ -27,13 +27,6 @@ ninja.data = [{
           title: 'My presentation at the 2026 ROADEF congress was awarded the $2^{\text{nd}}$ prize for...',
           description: "",
           section: "News",},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%68%65%6C%65%6E%65.%61%72%76%69%73@%65%64%66.%66%72", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
