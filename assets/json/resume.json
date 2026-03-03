@@ -12,9 +12,9 @@
   },
   "work": [
     {
-      "name": "EDF R&D, Inria GHOST and TROPICAl",
+      "name": "[EDF R&D](https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise), Inria [GHOST](https://ghost-team.gitlabpages.inria.fr/) and [TROPICAl](https://team.inria.fr/tropical/fr/)",
       "position": "PhD Student",
-      "startDate": "06-2024",
+      "startDate": "2024-06",
       "endDate": "Now",
       "summary": "Aggregate modeling of flexibilities in long-term investment and dispatch models for electricity production",
       "url": "https://theses.fr/s408336",
@@ -23,24 +23,24 @@
     {
       "name": "OuiHelp",
       "position": "Master Thesis",
-      "startDate": "10-2023",
-      "endDate": "05-2024",
+      "startDate": "2023-10",
+      "endDate": "2024-05",
       "summary": "Home Care Routing and Scheduling in a Mandatary Setting",
       "highlights": ["Optimization, Routing and Scheduling"]
     },
     {
       "name": "Mercedes-Benz AG",
       "position": "Research Internship",
-      "startDate": "03-2022",
-      "endDate": "08-2022",
+      "startDate": "2022-03",
+      "endDate": "2022-08",
       "summary": "Mixed-Integer Linear Programming for modular body-in-white factory planning",
       "highlights": ["Optimization, Factory planning"]
     },
     {
       "name": "SNCF Réseau - DGEX",
       "position": "Engineering Internship",
-      "startDate": "06-2021",
-      "endDate": "08-2021",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
       "summary": "Linear Programming for train scheduling",
       "highlights": ["Optimization, scheduling"]
     }
@@ -52,8 +52,8 @@
       "url": "https://www.tum.de",
       "area": "Mathematics in Operations Research",
       "studyType": "Master's Degree",
-      "startDate": "10-2022",
-      "endDate": "05-2024"
+      "startDate": "2022-10",
+      "endDate": "2024-05"
     },
     {
       "institution": "Ecole Polytechnique",
@@ -61,8 +61,17 @@
       "url": "https://www.polytechnique.edu/",
       "area": "Applied Mathematics",
       "studyType": "Diplôme d'ingénieur - Master level",
-      "startDate": "09-2019",
-      "endDate": "09-2023"
+      "startDate": "2019-09",
+      "endDate": "2023-09"
+    },
+    {
+      "institution": "Lycée Sainte Geneviève",
+      "location": "Versailles, France",
+      "url": "https://www.bginette.com/",
+      "area": "MPSI - MP* (Math and Physics)",
+      "studyType": "Classe préparatoire",
+      "startDate": "2017-09",
+      "endDate": "2019-09"
     }
   ],
   "languages": [
