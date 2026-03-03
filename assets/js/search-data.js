@@ -4,26 +4,26 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-my-presentation-at-the-2026-roadef-congress-was-awarded-the-2-text-nd-prize-for-the-best-student-artcle",
+        },{id: "news-my-presentation-at-the-2026-roadef-congress-was-awarded-the-2-text-nd-prize-for-the-best-student-article",
           title: 'My presentation at the 2026 ROADEF congress was awarded the $2^{\text{nd}}$ prize for...',
           description: "",
           section: "News",},{
