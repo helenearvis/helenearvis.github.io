@@ -1,5 +1,5 @@
 {
-  "Experience": [
+  "experience": [
     {
       "name": "<a href='https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise' rel='external nofollow noopener' target='_blank'>EDF R&D</a>, Inria <a href='https://ghost-team.gitlabpages.inria.fr/' rel='external nofollow noopener' target='_blank'>GHOST</a> and <a href='https://team.inria.fr/tropical/fr/' rel='external nofollow noopener' target='_blank'>TROPICAL</a>",
       "position": "PhD Student",
@@ -34,7 +34,7 @@
       "highlights": ["Optimization, scheduling"]
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "Technische Universität München",
       "location": "Munich, Germany",
