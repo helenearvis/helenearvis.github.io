@@ -12,7 +12,7 @@
   },
   "work": [
     {
-      "name": "<a href='https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise' rel='external nofollow noopener' target='_blank'>EDF R&D</a>, Inria [GHOST](https://ghost-team.gitlabpages.inria.fr/) and [TROPICAl](https://team.inria.fr/tropical/fr/)",
+      "name": "<a href='https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise' rel='external nofollow noopener' target='_blank'>EDF R&D</a>, Inria <a href='https://ghost-team.gitlabpages.inria.fr/' rel='external nofollow noopener' target='_blank'>GHOST</a> and <a href='https://team.inria.fr/tropical/fr/' rel='external nofollow noopener' target='_blank'>TROPICAL</a>",
       "position": "PhD Student",
       "startDate": "2024-06",
       "endDate": "Now",
@@ -21,7 +21,7 @@
       "highlights": ["Optimization, Aggregation"]
     },
     {
-      "name": "OuiHelp",
+      "name": "<a href='https://www.ouihelp.fr/' rel='external nofollow noopener' target='_blank'>OuiHelp</a>",
       "position": "Master Thesis",
       "startDate": "2023-10",
       "endDate": "2024-05",
@@ -29,7 +29,7 @@
       "highlights": ["Optimization, Routing and Scheduling"]
     },
     {
-      "name": "Mercedes-Benz AG",
+      "name": "<a href='https://group.mercedes-benz.com/karriere/ueber-uns/standorte/standort-detailseite-5125.html?r=dai' rel='external nofollow noopener' target='_blank'>Mercedes-Benz AG</a>",
       "position": "Research Internship",
       "startDate": "2022-03",
       "endDate": "2022-08",
@@ -37,7 +37,7 @@
       "highlights": ["Optimization, Factory planning"]
     },
     {
-      "name": "SNCF Réseau - DGEX",
+      "name": "<a href='https://www.sncf-reseau.com/fr' rel='external nofollow noopener' target='_blank'>SNCF Réseau - DGEX Solutions</a> ",
       "position": "Engineering Internship",
       "startDate": "2021-06",
       "endDate": "2021-08",
