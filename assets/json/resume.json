@@ -12,42 +12,57 @@
   },
   "work": [
     {
-      "name": "Electricité de France, Inria",
+      "name": "EDF R&D, Inria GHOST and TROPICAl",
       "position": "PhD Student",
-      "startDate": "2024-11-04",
-      "endDate": "2027-11-04",
+      "startDate": "June 2024",
+      "endDate": "Now",
       "summary": "Aggregate modeling of flexibilities in long-term investment and dispatch models for electricity production",
       "url": "https://theses.fr/s408336",
       "highlights": ["Optimization, Aggregation"]
+    },
+    {
+      "name": "OuiHelp",
+      "position": "Master Thesis",
+      "startDate": "October 2023",
+      "endDate": "May 2024",
+      "summary": "Home Care Routing and Scheduling in a Mandatary Setting",
+      "highlights": ["Optimization, Routing and Scheduling"]
+    },
+    {
+      "name": "Mercedes-Benz AG",
+      "position": "Research Internship",
+      "startDate": "March 2022",
+      "endDate": "August 2022",
+      "summary": "Mixed-Integer Linear Programming for modular body-in-white factory planning",
+      "highlights": ["Optimization, Factory planning"]
+    },
+    {
+      "name": "SNCF Réseau - DGEX",
+      "position": "Engineering Internship",
+      "startDate": "June 2021",
+      "endDate": "August 2021",
+      "summary": "Linear Programming for train scheduling",
+      "highlights": ["Optimization, scheduling"]
     }
   ],
   "education": [
+    {
+      "institution": "Technische Universität München",
+      "location": "Munich, Germany",
+      "url": "https://www.tum.de",
+      "area": "Mathematics in Operations Research",
+      "studyType": "Master's Degree",
+      "startDate": "October 2022",
+      "endDate": "May 2024"
+    },
     {
       "institution": "Ecole Polytechnique",
       "location": "Palaiseau, France",
       "url": "https://www.polytechnique.edu/",
       "area": "Applied Mathematics",
       "studyType": "Diplôme d'ingénieur - Master level",
-      "startDate": "2019-09-01",
-      "endDate": "2023-09-01"
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Applied Mathematics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-      ]
+      "startDate": "September 2019",
+      "endDate": "September 2023"
     }
   ],
   "languages": [
