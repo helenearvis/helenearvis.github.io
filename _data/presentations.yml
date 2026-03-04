@@ -10,6 +10,8 @@
   place: "Tours, France"
   date: "Feb 2026"
   sort_date: "2026-02"
+  detail: "2nd place prize"
   # pdf: "/assets/pdf/presentations/DPG_2024_Chadolias_Michael.pdf"
 
   # pdf: optional - can be omitted if no slides available
+  # detail optional
