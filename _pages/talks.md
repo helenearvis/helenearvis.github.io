@@ -13,8 +13,5 @@ nav_order: 3
 
 <!-- {% include bib_search.liquid %} -->
 
-<div class="publications">
+{% include presentations.liquid %}
 
-{% bibliography %}
-
-</div>
