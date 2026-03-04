@@ -2,17 +2,13 @@
   <div class="presentations-container">
     <div class="documents-header">
       <h2>Talks</h2>
-      <div class="sort-controls">
-        <button class="sort-btn active" data-sort="date-desc">Newest First</button>
-        <button class="sort-btn" data-sort="date-asc">Oldest First</button>
-      </div>
     </div>
 
     <div class="documents-list" id="presentations-list">
       {%- for presentation in site.data.presentations -%}
         <div class="document-item" data-title="{{ presentation.title | downcase }}" data-date="{{ presentation.sort_date }}">
           <!-- Title -->
-          <div class="document-title">{{ presentation.title }}</div>
+          <h4 class="document-title">{{ presentation.title }}</h4>
 
           <div class="document-meta">
             <!-- Occasion and Place -->
