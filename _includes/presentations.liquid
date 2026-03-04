@@ -8,7 +8,7 @@
       {%- for presentation in site.data.presentations -%}
         <div class="document-item" data-title="{{ presentation.title | downcase }}" data-date="{{ presentation.sort_date }}">
           <!-- Title -->
-          <h4 class="document-title">{{ presentation.title }}</h4>
+          <div class="document-title">{{ presentation.title }}</div>
 
           <div class="document-meta">
             <!-- Occasion and Place -->
@@ -23,6 +23,12 @@
             <div class="meta-item">
               <span class="document-date">{{ presentation.date }}</span>
             </div>
+            
+            {%- if presentation.detail -%}
+            <div class="document-detail">
+              <i class="document-detail"> {{ presentation.detail }} </i>
+            </div>
+            {%- endif -%}
           </div>
 
           <!-- PDF Link -->
