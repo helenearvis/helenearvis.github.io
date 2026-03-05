@@ -8,7 +8,7 @@
       {%- for presentation in site.data.presentations -%}
         <div class="document-item" data-title="{{ presentation.title | downcase }}" data-date="{{ presentation.sort_date }}">
           <!-- Title -->
-          <div class="document-title">{{ <b>presentation.title</b> }}</div>
+          <div class="document-title">{{ presentation.title }}</div>
 
           <div class="document-meta">
             <!-- Occasion and Place -->
