@@ -1,14 +1,11 @@
 <style>
 .document-title{
-  font-weight : bold;
+  font-weight : 600;
 }
 </style>
 
 {%- if site.data.presentations -%}
   <div class="presentations-container">
-    <div class="documents-header">
-      <h2>Talks</h2>
-    </div>
 
     <div class="documents-list" id="presentations-list">
       {%- for presentation in site.data.presentations -%}
