@@ -1,3 +1,9 @@
+<style>
+.document-title{
+  font-weight : bold;
+}
+</style>
+
 {%- if site.data.presentations -%}
   <div class="presentations-container">
     <div class="documents-header">
@@ -6,7 +12,7 @@
 
     <div class="documents-list" id="presentations-list">
       {%- for presentation in site.data.presentations -%}
-        <div class="document-item" data-title="{{ presentation.title | downcase }}" data-date="{{ presentation.sort_date }}">
+        <div class="document-item" data-title="{{ presentation.title | downcase }}" data-date="{{ presentation.sort_date }}" style="margin-bottom:1cm">
           <!-- Title -->
           <div class="document-title">{{ presentation.title }}</div>
 
