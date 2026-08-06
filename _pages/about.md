@@ -35,4 +35,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a second-year PhD student in Applied Mathematics, in particular mathematical optimization. My topic is the aggregation of flexibilities in long-term unit commitment problems, applying tools from operations research and mean-field theory to understand and improve current aggregation techniques in the use cases of electric vehicles and hydro installations. 
 
-I am currently affiliated to EDF R&D, OSIRIS department, as well as the GHOST (Grenoble) and TROPICAL (Saclay) Inria teams. My PhD is part of the [Défi INRIA-EDF](https://project.inria.fr/inriaedf/).
+I am currently affiliated to EDF R&D, OSIRIS department, as well as the GHOST (Grenoble) and TROPICAL (Saclay) Inria teams and supervised by [Nicolas Gast](https://polaris.imag.fr/nicolas.gast/), [Stéphane Gaubert](https://www.cmap.polytechnique.fr/~gaubert/), [Bruno Gaujal](https://team.inria.fr/polaris/members/bruno-gaujal/) and [Olivier Beaude](https://sites.google.com/site/olivierbeaudeshomepage/). My PhD is part of the [Défi INRIA-EDF](https://project.inria.fr/inriaedf/).

@@ -10,8 +10,15 @@
   place: "Tours, France"
   date: "Feb 2026"
   sort_date: "2026-02"
-  detail: "2nd place prize"
+  detail: "2nd place prize for best student article"
   # pdf: "/assets/pdf/presentations/DPG_2024_Chadolias_Michael.pdf"
+
+- title: "Integrating Aggregated Electric Vehicle Flexibilities in Unit Commitment Models using Submodular Optimization"
+  occasion: "<a href='https://ecc26.euca-ecc.org/' rel='external nofollow noopener' target='_blank'>European Control Conference 2026</a>"
+  place: "Reykjavík, Iceland"
+  date: "July 2026"
+  sort_date: "2026-07"
+  detail: "Best Paper Award"
 
   # pdf: optional - can be omitted if no slides available
   # detail optional
