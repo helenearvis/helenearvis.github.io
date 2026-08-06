@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-my-presentation-at-the-2026-roadef-congress-was-awarded-the-2-text-nd-prize-for-the-best-student-article",
           title: 'My presentation at the 2026 ROADEF congress was awarded the $2^{\text{nd}}$ prize for...',
           description: "",
+          section: "News",},{id: "news-honored-to-have-received-the-best-paper-award-at-ecc-2026-for-our-paper-entitled-integrating-aggregated-electric-vehicle-flexibilities-in-unit-commitment-models-using-submodular-optimization",
+          title: 'Honored to have received the Best Paper Award at ECC 2026 for our...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
